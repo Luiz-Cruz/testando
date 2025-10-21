@@ -1,4 +1,3 @@
 HUHU
-AAA
 BBB
 GGG
